@@ -1,4 +1,4 @@
-///©ñ¤jÁY¤p:ctrl+¾¦½ü
+///æ”¾å¤§ç¸®å°:ctrl+æ»¾è¼ª
 #include <stdio.h>
 int main(){
     printf("Hello World");
