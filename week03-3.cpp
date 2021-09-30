@@ -2,6 +2,6 @@
 int main()
 {
     int a, b;
-    scanf("%d%d", &a, &b);///f¬Oformat
+    scanf("%d%d", &a, &b);///fæ˜¯format
     printf("%d", a+b);
 }
