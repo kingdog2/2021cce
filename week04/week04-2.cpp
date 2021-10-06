@@ -4,6 +4,6 @@ int main()
     int a=123, b=10;
     int ans= a/ b;
     float ans2= 123.0/10.0;
-    printf("¾ã¼Æ°£¾ã¼Æ %d\n", ans);
-    printf("floatªº°£¼Æ %f\n", ans2);
+    printf("æ•´æ•¸é™¤æ•´æ•¸ %d\n", ans);
+    printf("floatçš„é™¤æ•¸ %f\n", ans2);
 }
